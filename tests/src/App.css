@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+  color:black
+}
+.box1{
+  background-color: aquamarine;
+  padding: 2rem;
+}
+.box2{
+  background-color: blanchedalmond;
+  padding: 2rem;
+}
+.box3{
+  background-color: red;
+  padding: 2rem;
+}
+.box4{
+  background-color: darkgreen;
+  padding: 2rem;
+}
